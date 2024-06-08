@@ -1,10 +1,10 @@
 # QOSF Mentorship Repository
 
-This repository is part of the Quantum Open Source Foundation (QOSF) mentorship program, where I am working under the guidance of Dr. Karlos Kuhn from the University of Cannberra.
+This repository is part of the Quantum Open Source Foundation (QOSF) mentorship program, where I am working under the guidance of Dr. Carlos Kuhn from the University of Cannberra / Open Source Institute.
 
 ## Overview
 
-The goal of this project is to contribute to the development of quantum computing and its applications through the QOSF mentorship program. Under the mentorship of Dr. Karlos Kuhn, I will be working on various tasks and projects to enhance my skills and knowledge in quantum computing.
+The goal of this project is to contribute to the development of quantum computing and its applications through the QOSF mentorship program. Under the mentorship of Dr. Carlos Kuhn, I will be working on various tasks and projects to enhance my skills and knowledge in quantum computing.
 
 ## Projects and Tasks
 
